@@ -1,91 +1,61 @@
-/* ============================================================================
-   EDITA SOLO ESTE ARCHIVO PARA CADA CLIENTE O SEMANA
-   ============================================================================
-
-   CAMBIO RÁPIDO:
-   1. Edita la sección DATOS DEL CLIENTE.
-   2. Edita la sección DATOS DE LA SEMANA.
-   3. Cambia el texto, fecha e imágenes de las publicaciones.
-   4. Guarda las imágenes dentro de la carpeta "img".
-
-   NO es necesario editar index.html, config.js ni style.css.
-============================================================================ */
-
+/* Archivo generado desde editor-data.html */
 const CONFIG_SEMANAL = {
-
-    /* ------------------------------------------------------------------------
-       1. DATOS DEL CLIENTE
-       Estos datos se escriben UNA SOLA VEZ.
-    ------------------------------------------------------------------------ */
     cliente: "Pierina Vega",
     usuarioInstagram: "pierina.agenteinmobiliario",
-
-    // Firma que se agregará automáticamente al final de todas las publicaciones.
     firmaPublicaciones: "Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557",
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
-
-    // Número al que llegará la aprobación. Solo números y con código de país.
-    // Déjalo vacío para que el cliente elija el chat de WhatsApp.
     whatsappDestino: "",
-
-    /* ------------------------------------------------------------------------
-       2. DATOS DE LA SEMANA
-    ------------------------------------------------------------------------ */
     titulo: "Calendario Julio 2026",
-    rangoFechas: "Semana del martes 21 al sábado 25 de julio",
-
-    /* ------------------------------------------------------------------------
-       3. PUBLICACIONES
-
-       tipo: puede ser "imagen", "video" o "carrusel".
-       diaSemana: fecha que verá el cliente.
-       imagenes: nombre y ubicación de las imágenes.
-       copy: escribe solamente el contenido principal. La firma se añade sola.
-
-       PARA UN CARRUSEL:
-       imagenes: ["img/1.jpg", "img/2.jpg", "img/3.jpg"]
-    ------------------------------------------------------------------------ */
+    rangoFechas: "Semana del lunes 27 al sábado 1 de agosto",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 21 de julio",
-            imagenes: ["img/21.jpg"],
-            copy: `🚨 Una propiedad "bonita" no siempre es una buena inversión.
+            diaSemana: "Lunes 27 de julio",
+            imagenes: ["img/27.png"],
+            copy: `¡Viva el Perú! ❤️🤍❤️
 
-Los acabados se pueden cambiar, pero la ubicación y la proyección de crecimiento, no. No te dejes llevar por la fachada; enfócate en lo que realmente asegura tu patrimonio a largo plazo. 📈
+A celebrar nuestras tradiciones, nuestra gente y los sueños que nos mueven a seguir creciendo.
 
-🔑 Te ayudo a identificar oportunidades con alta plusvalía. Hablemos. 📩`
+¡Que estas Fiestas Patrias estén llenas de alegría y momentos inolvidables en familia! 🇵🇪✨`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Jueves 30 de julio",
+            imagenes: ["img/30.jpg"],
+            copy: `Oportunidad de inversión inmobiliaria: Barranco - Chorrillos. 💸
+
+Desarrolla tu proyecto en una zona de constante revalorización y alta plusvalía.
+
+📍 Ubicación: Límite Barranco / Chorrillos
+💰 Inversión: USD 463,500
+📄 Papeles: Documentación impecable, listo para firmar
+
+📩 Mándame un mensaje directo y revisemos los detalles del proyecto.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 31 de julio",
+            imagenes: ["img/31.jpg"],
+            copy: `👀 El "momento perfecto" para comprar no existe, pero la inflación sí.
+
+Mientras esperas a que las condiciones cambien, las propiedades suben de precio y la plusvalía se la gana otro.
+
+Los que invierten hoy, cosechan rentabilidad mañana.
+
+¿En qué grupo quieres estar tú?`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 23 de julio",
-            imagenes: ["img/23.jpg"],
-            copy: `¡Feliz día a toda la Fuerza Aérea del Perú! 🦅 Hoy celebramos el orgullo de nuestra aviación y el heroísmo de nuestro gran Capitán Quiñones. Gracias por cuidar nuestro cielo con tanta dedicación. 🇵🇪💙`
-        },
+            diaSemana: "Sábado 1 de agosto",
+            imagenes: ["img/1.jpg"],
+            copy: `¿Dónde abrir tu próximo negocio? Sigue los proyectos residenciales. 📈🏢
 
-        {
-            tipo: "video",
-            diaSemana: "Viernes 24 de julio",
-            imagenes: ["img/24.jpg"],
-            copy: `⏳ Las mejores propiedades ni siquiera llegan a publicarse en portales.
+El boom inmobiliario no solo crea viviendas; genera una demanda urgente de "servicios de proximidad". Donde llegan cientos de nuevas familias, hacen falta cafeterías, panaderías, farmacias y comercios a pasos de casa.
 
-En el mercado actual, la velocidad y la información privilegiada lo son todo. Si esperas a que la propiedad esté "a la vista de todos", probablemente ya perdiste la oportunidad de una mejor negociación.
-
-🚀 ¿Quieres acceso a oportunidades antes que nadie? Hablemos. 📲`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 25 de julio",
-            imagenes: ["img/25.jpg"],
-            copy: `¡Impulsa tu proyecto en la zona de mayor crecimiento entre Barranco y Chorrillos! 📈🏗️
-
-Este terreno cuenta con documentación impecable y alta rentabilidad. 💸
-Precio: USD 463,500. 💰
-Estado: Listo para transferencia inmediata. 🤝
-
-¡No dejes pasar esta oportunidad! 🚀 Envíame un mensaje y coordinamos una visita. 📲✨`
+Si vas a invertir en un local comercial, hazlo en zonas de alta densidad poblacional y constante crecimiento.`
         }
     ]
 };
