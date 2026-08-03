@@ -6,56 +6,57 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
     titulo: "Calendario Julio 2026",
-    rangoFechas: "Semana del lunes 27 al sábado 1 de agosto",
+    rangoFechas: "Semana del martes 4 al sábado 8 de agosto",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Lunes 27 de julio",
-            imagenes: ["img/27.png"],
-            copy: `¡Viva el Perú! ❤️🤍❤️
+            diaSemana: "Martes 4 de agosto",
+            imagenes: ["img/4.jpg"],
+            copy: `✨ Prepara tu vivienda antes de venderla
 
-A celebrar nuestras tradiciones, nuestra gente y los sueños que nos mueven a seguir creciendo.
-
-¡Que estas Fiestas Patrias estén llenas de alegría y momentos inolvidables en familia! 🇵🇪✨`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Jueves 30 de julio",
-            imagenes: ["img/30.jpg"],
-            copy: `Oportunidad de inversión inmobiliaria: Barranco - Chorrillos. 💸
-
-Desarrolla tu proyecto en una zona de constante revalorización y alta plusvalía.
-
-📍 Ubicación: Límite Barranco / Chorrillos
-💰 Inversión: USD 463,500
-📄 Papeles: Documentación impecable, listo para firmar
-
-📩 Mándame un mensaje directo y revisemos los detalles del proyecto.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 31 de julio",
-            imagenes: ["img/31.jpg"],
-            copy: `👀 El "momento perfecto" para comprar no existe, pero la inflación sí.
-
-Mientras esperas a que las condiciones cambien, las propiedades suben de precio y la plusvalía se la gana otro.
-
-Los que invierten hoy, cosechan rentabilidad mañana.
-
-¿En qué grupo quieres estar tú?`
+🏡 La primera impresión lo cambia todo.
+Un espacio limpio, ordenado y bien iluminado atrae más compradores y puede ayudarte a vender más rápido y al mejor precio.
+Los pequeños detalles marcan la diferencia. ✨`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 1 de agosto",
-            imagenes: ["img/1.jpg"],
-            copy: `¿Dónde abrir tu próximo negocio? Sigue los proyectos residenciales. 📈🏢
+            diaSemana: "Jueves 6 de agosto",
+            imagenes: ["img/6.png"],
+            copy: `🇵🇪 Conmemoración de la Batalla de Junín
 
-El boom inmobiliario no solo crea viviendas; genera una demanda urgente de "servicios de proximidad". Donde llegan cientos de nuevas familias, hacen falta cafeterías, panaderías, farmacias y comercios a pasos de casa.
+Hoy rendimos homenaje a los valientes peruanos que, con coraje y determinación, marcaron un momento decisivo en nuestra historia.
 
-Si vas a invertir en un local comercial, hazlo en zonas de alta densidad poblacional y constante crecimiento.`
+Que su legado nos motive a seguir trabajando por un Perú más unido, fuerte y lleno de oportunidades.
+
+¡Gloria a los héroes de la Batalla de Junín! ❤️🤍❤️`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 7 de agosto",
+            imagenes: ["img/7.jpg"],
+            copy: `💰 ¿Sabes cuál es el precio ideal para tu propiedad?
+
+🏡 Ni muy alto, ni muy bajo.
+
+Un precio bien definido atrae más compradores y aumenta las posibilidades de vender en menos tiempo.
+Valorar tu inmueble correctamente es el primer paso para una venta exitosa.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Sábado 8 de agosto",
+            imagenes: ["img/8.jpg"],
+            copy: `🏗️ Invierte donde el crecimiento no se detiene
+
+Terreno estratégicamente ubicado entre Barranco y Chorrillos, ideal para desarrollar tu próximo proyecto.
+
+📍 Documentación en regla.
+💰 Precio: USD 463,500.
+✅ Listo para transferencia inmediata.
+
+📲 Agenda una visita y conoce esta gran oportunidad de inversión.`
         }
     ]
 };
