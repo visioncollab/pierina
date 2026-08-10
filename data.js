@@ -5,58 +5,62 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557",
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
-    titulo: "Calendario Julio 2026",
-    rangoFechas: "Semana del martes 4 al sábado 8 de agosto",
+    titulo: "Calendario Agosto 2026",
+    rangoFechas: "Semana del martes 11 al sábado 15 de agosto",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 4 de agosto",
-            imagenes: ["img/4.jpg"],
-            copy: `✨ Prepara tu vivienda antes de venderla
+            diaSemana: "Martes 11 de agosto",
+            imagenes: ["img/11.jpg"],
+            copy: `🏡 Un día siendo agente inmobiliario
 
-🏡 La primera impresión lo cambia todo.
-Un espacio limpio, ordenado y bien iluminado atrae más compradores y puede ayudarte a vender más rápido y al mejor precio.
-Los pequeños detalles marcan la diferencia. ✨`
+No se trata solo de mostrar propiedades.
+
+Cada día hay visitas, reuniones, asesorías y negociaciones, pero sobre todo, personas buscando tomar una gran decisión.
+
+🤝 Ser agente inmobiliario es acompañar, asesorar y construir confianza.
+`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Jueves 13 de agosto",
+            imagenes: ["img/13.jpg"],
+            copy: `🏗️ Invierte en una zona con gran potencial
+
+Terreno ubicado estratégicamente entre Barranco y Chorrillos, ideal para desarrollar tu próximo proyecto.
+
+📍 Documentación en regla
+💰 USD 463,500
+✅ Transferencia inmediata
+
+📲 Agenda una visita y descubre esta oportunidad de inversión.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 14 de agosto",
+            imagenes: ["img/14.jpg"],
+            copy: `🔑 Lo que nadie ve de esta profesión
+
+Detrás de cada venta hay mucho más que una visita.
+
+Coordinaciones, documentos, seguimiento y asesoría son parte de cada proceso.
+
+🏡 Porque un cierre exitoso comienza mucho antes de entregar las llaves.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 6 de agosto",
-            imagenes: ["img/6.png"],
-            copy: `🇵🇪 Conmemoración de la Batalla de Junín
+            diaSemana: "Sábado 15 de agosto",
+            imagenes: ["img/15.jpg"],
+            copy: `🏙️ El mercado inmobiliario de Lima sigue creciendo
 
-Hoy rendimos homenaje a los valientes peruanos que, con coraje y determinación, marcaron un momento decisivo en nuestra historia.
+Durante el primer semestre de 2026, la venta de viviendas nuevas creció 26% frente al mismo periodo del año anterior.
 
-Que su legado nos motive a seguir trabajando por un Perú más unido, fuerte y lleno de oportunidades.
+📈 Más compradores están apostando por adquirir una propiedad.
 
-¡Gloria a los héroes de la Batalla de Junín! ❤️🤍❤️`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 7 de agosto",
-            imagenes: ["img/7.jpg"],
-            copy: `💰 ¿Sabes cuál es el precio ideal para tu propiedad?
-
-🏡 Ni muy alto, ni muy bajo.
-
-Un precio bien definido atrae más compradores y aumenta las posibilidades de vender en menos tiempo.
-Valorar tu inmueble correctamente es el primer paso para una venta exitosa.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 8 de agosto",
-            imagenes: ["img/8.jpg"],
-            copy: `🏗️ Invierte donde el crecimiento no se detiene
-
-Terreno estratégicamente ubicado entre Barranco y Chorrillos, ideal para desarrollar tu próximo proyecto.
-
-📍 Documentación en regla.
-💰 Precio: USD 463,500.
-✅ Listo para transferencia inmediata.
-
-📲 Agenda una visita y conoce esta gran oportunidad de inversión.`
+🏡 ¿Estás pensando en comprar o invertir? Este puede ser el momento de evaluar tus opciones.`
         }
     ]
 };
