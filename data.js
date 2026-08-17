@@ -6,61 +6,63 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
     titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del martes 11 al sábado 15 de agosto",
+    rangoFechas: "Semana del martes 18 al sábado 22 de agosto",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 11 de agosto",
-            imagenes: ["img/11.jpg"],
-            copy: `🏡 Un día siendo agente inmobiliario
+            diaSemana: "Martes 18 de agosto",
+            imagenes: ["img/18.jpg"],
+            copy: `⚖️ Las reglas cambian: Protege tu compra o venta.
 
-No se trata solo de mostrar propiedades.
+Las normativas inmobiliarias se actualizan constantemente y pueden impactar directamente tu bolsillo. 📄
 
-Cada día hay visitas, reuniones, asesorías y negociaciones, pero sobre todo, personas buscando tomar una gran decisión.
-
-🤝 Ser agente inmobiliario es acompañar, asesorar y construir confianza.
-`
+📍 Evita dolores de cabeza:
+• Conoce las nuevas leyes antes de firmar.
+• Evita multas, retrasos o trámites rechazados.
+• Asegura tu inversión con información actualizada. 🛡️`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 13 de agosto",
-            imagenes: ["img/13.jpg"],
-            copy: `🏗️ Invierte en una zona con gran potencial
+            diaSemana: "Jueves 20 de agosto",
+            imagenes: ["img/20.jpg"],
+            copy: `🚨 ¡Alerta de nuevo precio! Depa en Barranco a US$ 189,000 🔥
 
-Terreno ubicado estratégicamente entre Barranco y Chorrillos, ideal para desarrollar tu próximo proyecto.
+Ubicación top: Límite con Miraflores y a un paso de la Costa Verde. 🌊
 
-📍 Documentación en regla
-💰 USD 463,500
-✅ Transferencia inmediata
+📍 2do piso con hermosa vista al parque:
+• 3 Dormitorios + Área de servicio completa. 🛏️
+• Sala amplia y cocina independiente. 🍳
+• 1 Cochera | Edificio muy exclusivo (solo 10 depas). 🏢
 
-📲 Agenda una visita y descubre esta oportunidad de inversión.`
+📲 ¡Que no te lo ganen! Escríbeme al DM para agendar tu visita.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 14 de agosto",
-            imagenes: ["img/14.jpg"],
-            copy: `🔑 Lo que nadie ve de esta profesión
+            diaSemana: "Viernes 21 de agosto",
+            imagenes: ["img/21.jpg"],
+            copy: `🏦 El secreto para tu crédito hipotecario: tu score.
 
-Detrás de cada venta hay mucho más que una visita.
+Tu historial de pagos define si el banco te aprueba el préstamo y con qué condiciones. 💳
 
-Coordinaciones, documentos, seguimiento y asesoría son parte de cada proceso.
-
-🏡 Porque un cierre exitoso comienza mucho antes de entregar las llaves.`
+📍 Claves para tu salud financiera:
+• Mantén tus deudas al mínimo.
+• Paga tus tarjetas siempre a tiempo.
+• Un buen score = mejores tasas de interés. 📉`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 15 de agosto",
-            imagenes: ["img/15.jpg"],
-            copy: `🏙️ El mercado inmobiliario de Lima sigue creciendo
+            diaSemana: "Sábado 22 de agosto",
+            imagenes: ["img/22.jpg"],
+            copy: `🏗️ Planos vs. Entrega Inmediata: ¿Cuál te conviene?
 
-Durante el primer semestre de 2026, la venta de viviendas nuevas creció 26% frente al mismo periodo del año anterior.
+Comprar en planos puede ahorrarte hasta un 15% del valor final de tu depa. 💰
 
-📈 Más compradores están apostando por adquirir una propiedad.
-
-🏡 ¿Estás pensando en comprar o invertir? Este puede ser el momento de evaluar tus opciones.`
+📍 La gran diferencia:
+• En Planos: Aseguras el precio más bajo y fraccionas tu inicial.
+• Entrega Inmediata: Te mudas o alquilas hoy mismo, pero pagas el precio máximo. 🏢`
         }
     ]
 };
