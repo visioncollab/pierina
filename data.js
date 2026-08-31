@@ -6,68 +6,75 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
     titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del martes 25 al sábado 29 de agosto",
+    rangoFechas: "Semana del martes 1 al sábado 5 de setiembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 25 de agosto",
-            imagenes: ["img/25.jpg"],
-            copy: `¿POR QUÉ NADIE COMPRA MI CASA? 😩
+            diaSemana: "Martes 1 de setiembre",
+            imagenes: ["img/1.jpg"],
+            copy: `💰 ¿POR QUÉ BAJAR EL PRECIO NO SIEMPRE ES LA SOLUCIÓN?
 
-A veces no es la propiedad.
+Si tu propiedad no recibe ofertas, bajar el precio puede parecer la salida rápida.
 
-Puede ser el tiempo que lleva publicada, el precio, la presentación o la estrategia de venta.
+Pero antes pregunta:
 
-Una propiedad puede permanecer meses en el mercado por:
+📸 ¿Cómo se está mostrando?
+📢 ¿Dónde se está publicitando?
+🎯 ¿Está llegando al público correcto?
+🏠 ¿La propiedad está bien presentada?
 
-❌ Precio fuera de mercado.
-❌ Fotos poco atractivas.
-❌ Información incompleta.
-❌ Mala estrategia de difusión.
-❌ Falta de seguimiento.
+Precio + estrategia + presentación.
 
-Vender no es simplemente publicar y esperar.
-
-🏠 Una buena propiedad necesita una buena estrategia.
-
-💬 ¿Cuánto tiempo esperarías antes de preguntarte qué está fallando?`
+Todo importa.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 27 de agosto",
-            imagenes: ["img/27.jpg"],
-            copy: `🌊 Vive donde la magia de Barranco se une con lo mejor de Miraflores ✨
+            diaSemana: "Jueves 3 de setiembre",
+            imagenes: ["img/3.jpg"],
+            copy: `🏢 Exclusivo Dúplex en Alquiler de 180 m² con Piscina y Terraza BBQ
 
-Imagina despertar todos los días con una hermosa vista al parque y tener la Costa Verde a solo unos pasos para salir a caminar o hacer deporte. 🍃
+Ubicado en el 6to piso de un moderno edificio de solo 14 departamentos en Valle Hermoso Oeste, límite con Chacarilla.
 
-📍 Tu próximo hogar en 2do piso te ofrece:
-• 3 Dormitorios + Área de servicio completa para tu total comodidad. 🛏️
-• Una sala súper amplia ideal para compartir y cocina independiente. 🍳
-• 1 Cochera privada. 🚗
+Ofrece una distribución ideal con amplia sala-comedor, cocina equipada, baño de visitas y 3 dormitorios (el principal con baño en suite y dos secundarios con baño compartido), además de zonas sociales con piscina y terraza BBQ. Su ubicación estratégica brinda cercanía a centros comerciales, supermercados, parques, colegios y universidades, con fácil acceso a la Panamericana Sur.
 
-🏢 Privacidad garantizada: Vive en un edificio boutique y súper exclusivo de solo 10 departamentos.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 28 de agosto",
-            imagenes: ["img/28.jpg"],
-            copy: `¿Por qué vivir en Barranco? 🌊✨
-
-🌅 El mar a un paso: Caminatas, deporte y los mejores atardeceres en el malecón.
-🎨 Estilo de vida único: Arte, cultura y ambiente bohemio en cada calle.
-☕ Gastronomía top: Rodeado de los mejores cafés, bares y restaurantes.
-📍 Ubicación ideal: La tranquilidad de un barrio residencial, conectado a Miraflores.`
+📲 ¡Escribeme para conocer más detalles y agendar tu visita!`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 29 de agosto",
-            imagenes: ["img/29.png"],
-            copy: `Un saludo especial este 30 de agosto por el Día de Santa Rosa de Lima.
+            diaSemana: "Viernes 4 de setiembre",
+            imagenes: ["img/4.jpg"],
+            copy: `📸 TU CASA NO NECESITA SER PERFECTA PARA VENDERSE
 
-Conmemoramos a nuestra patrona y recordamos el valor de la perseverancia y el compromiso con nuestra ciudad. Renovemos metas y sigamos construyendo los hogares y proyectos de tantas familias en Lima. 🏡`
+Pero sí necesita verse bien.
+
+Antes de publicar:
+
+🧹 Ordena
+☀️ Ilumina
+🪴 Despersonaliza
+📸 Fotografía bien
+✨ Destaca sus fortalezas
+
+Porque en redes...la primera visita muchas veces ocurre con una fotografía.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Sábado 5 de setiembre",
+            imagenes: ["img/5.jpg"],
+            copy: `🌊 El punto exacto entre Barranco y Miraflores 🏙️✨
+
+Disfruta de la mejor ubicación: despierta frente al parque y ten la Costa Verde a unos pasos para tus mañanas de deporte o caminatas al aire libre. 🍃🏃‍♂️
+
+📍 Lo que encontrarás en este 2do piso:
+
+3 dormitorios amplios + área de servicio completa. 🛏️🧺
+Sala sumamente espaciosa y cocina tradicional independiente. 🍳🛋️
+Cochera privada incluida. 🚗🔑
+
+🤫 Exclusividad total: Edificio boutique de solo 10 departamentos para máxima privacidad.`
         }
     ]
 };
