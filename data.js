@@ -6,75 +6,65 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
     titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del martes 1 al sábado 5 de setiembre",
+    rangoFechas: "Semana del lunes 7 al sábado 12 de setiembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 1 de setiembre",
-            imagenes: ["img/1.jpg"],
-            copy: `💰 ¿POR QUÉ BAJAR EL PRECIO NO SIEMPRE ES LA SOLUCIÓN?
-
-Si tu propiedad no recibe ofertas, bajar el precio puede parecer la salida rápida.
-
-Pero antes pregunta:
-
-📸 ¿Cómo se está mostrando?
-📢 ¿Dónde se está publicitando?
-🎯 ¿Está llegando al público correcto?
-🏠 ¿La propiedad está bien presentada?
-
-Precio + estrategia + presentación.
-
-Todo importa.`
+            diaSemana: "Lunes 7 de setiembre",
+            imagenes: ["img/7.png"],
+            copy: `7 de setiembre - Día del Agente Inmobiliario
+🏢🥂 Detrás de cada contrato hay análisis, negociación y un compromiso absoluto con sus metas. Hoy reafirmo mi pasión por esta profesión. ¡Feliz día a todos, a seguir cerrando grandes tratos!`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 3 de setiembre",
-            imagenes: ["img/3.jpg"],
-            copy: `🏢 Exclusivo Dúplex en Alquiler de 180 m² con Piscina y Terraza BBQ
+            diaSemana: "Jueves 10 de setiembre",
+            imagenes: ["img/10.jpg"],
+            copy: `📍 ¡Lo mejor de Barranco y Miraflores en un solo lugar! 🌊
 
-Ubicado en el 6to piso de un moderno edificio de solo 14 departamentos en Valle Hermoso Oeste, límite con Chacarilla.
+Despierta frente al parque y a segundos de la Costa Verde. La ubicación soñada para tus mañanas al aire libre. 🏃‍♂️🍃
 
-Ofrece una distribución ideal con amplia sala-comedor, cocina equipada, baño de visitas y 3 dormitorios (el principal con baño en suite y dos secundarios con baño compartido), además de zonas sociales con piscina y terraza BBQ. Su ubicación estratégica brinda cercanía a centros comerciales, supermercados, parques, colegios y universidades, con fácil acceso a la Panamericana Sur.
+Tu próximo depa en 2do piso cuenta con:
 
-📲 ¡Escribeme para conocer más detalles y agendar tu visita!`
+🛏️ 3 dormitorios amplios + área de servicio.
+🛋️ Gran sala de estar y cocina clásica.
+🚗 Estacionamiento privado.
+
+🤫 Máxima exclusividad: edificio boutique de solo 10 departamentos.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Viernes 4 de setiembre",
-            imagenes: ["img/4.jpg"],
-            copy: `📸 TU CASA NO NECESITA SER PERFECTA PARA VENDERSE
+            diaSemana: "Viernes 11 de setiembre",
+            imagenes: ["img/11.jpg"],
+            copy: `🎯 ¿A quién le estás vendiendo realmente?
 
-Pero sí necesita verse bien.
+No todas las propiedades son para todos. Saber quién es tu cliente ideal cambia por completo cómo ofreces el inmueble:
 
-Antes de publicar:
+👨‍👩‍👧 ¿Es para una familia?
+👩‍💻 ¿Para un profesional soltero?
+💼 ¿O una oportunidad para inversionistas?
 
-🧹 Ordena
-☀️ Ilumina
-🪴 Despersonaliza
-📸 Fotografía bien
-✨ Destaca sus fortalezas
+Háblale a la persona correcta y conectarás mucho más rápido.
 
-Porque en redes...la primera visita muchas veces ocurre con una fotografía.`
+No vendas cuatro paredes, vende la experiencia de vivir ahí. ✨`
         },
 
         {
             tipo: "video",
-            diaSemana: "Sábado 5 de setiembre",
+            diaSemana: "Sábado 12 de setiembre",
             imagenes: ["img/5.jpg"],
-            copy: `🌊 El punto exacto entre Barranco y Miraflores 🏙️✨
+            copy: `🌟 ¡Exclusivo dúplex de 180 m² con piscina y terraza BBQ!
 
-Disfruta de la mejor ubicación: despierta frente al parque y ten la Costa Verde a unos pasos para tus mañanas de deporte o caminatas al aire libre. 🍃🏃‍♂️
+Vive en la mejor zona de Valle Hermoso Oeste (límite con Chacarilla), dentro de un edificio súper privado de solo 14 departamentos y a un paso de todo. 📍
 
-📍 Lo que encontrarás en este 2do piso:
+Conoce lo que te espera en este 6to piso:
 
-3 dormitorios amplios + área de servicio completa. 🛏️🧺
-Sala sumamente espaciosa y cocina tradicional independiente. 🍳🛋️
-Cochera privada incluida. 🚗🔑
+🛏️ 3 dormitorios (el principal con baño en suite).
+🏊‍♂️ Terraza increíble con tu propia piscina y zona de parrilla.
+🛋️ Sala-comedor sumamente amplia y cocina equipada.
 
-🤫 Exclusividad total: Edificio boutique de solo 10 departamentos para máxima privacidad.`
+📲 ¡Escríbeme para darte todos los detalles y agendar tu visita!`
         }
     ]
 };
