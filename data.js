@@ -5,62 +5,79 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557",
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
-    titulo: "Calendario Setiembre 2026",
-    rangoFechas: "Semana del martes 22 al sábado 26 de setiembre",
+    titulo: "Calendario Setiembre - Octubre 2026",
+    rangoFechas: "Semana del martes 29 al sábado 03 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 22 de setiembre",
-            imagenes: ["img/22.jpg"],
-            copy: `💰 ¿Cuánto necesitas realmente para la cuota inicial de tu depa? 🏠
+            diaSemana: "Martes 29 de setiembre",
+            imagenes: ["img/29.jpg"],
+            copy: `🏠 ¿Qué debes tener listo antes de publicar?
 
-La regla general es el 10% al 20% del valor del inmueble.
+Antes del famoso "SE VENDE", asegúrate de tener:
 
-📊 Ejemplo rápido: Si el depa cuesta S/ 300,000, tu inicial debería ser entre S/ 30,000 y S/ 60,000. 💸
-📝 No olvides los gastos extra: Separa un 3% a 5% adicional para trámites, notaría y tasación. ✍️`
+📄 Documentación en regla
+📐 Características reales
+📸 Fotografías de calidad
+💰 Precio sustentado
+📍 Detalles de ubicación
+☎️ Canal de contacto
+
+Una publicación empieza mucho antes de subirla a Instagram. 📱💡`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 24 de setiembre",
-            imagenes: ["img/24.jpg"],
-            copy: `🌊 Tu nuevo estilo de vida entre Barranco y Miraflores
+            diaSemana: "Jueves 01 de octubre",
+            imagenes: ["img/1.jpg"],
+            copy: `¿Invertir en un Airbnb realmente es rentable? 🧳
 
-Frente al parque y a pocos pasos de la Costa Verde, este departamento combina ubicación, amplitud y privacidad.
+No basta con comprar un departamento y publicarlo.
+
+Para calcular tu rentabilidad real, debes analizar:
+
+📍 Ubicación estratégica
+📅 Tasa de ocupación esperada
+💰 Precio promedio por noche
+🧾 Gastos de operación y mantenimiento
+
+El éxito de un alquiler a corto plazo no es suerte, es gestión. 💡`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 02 de octubre",
+            imagenes: ["img/2.jpg"],
+            copy: `🌳 Frente al parque y a un paso de la Costa Verde
+
+Privacidad y espacio en el límite perfecto entre Barranco y Miraflores.
 
 🛏️ 3 dormitorios + área de servicio
 🛋️ Sala amplia y cocina funcional
 🚗 Estacionamiento privado
-🏢 Edificio boutique: de solo 10 departamentos.
+🏢 Edificio boutique de solo 10 departamentos
 
-📍 Una ubicación privilegiada para disfrutar la ciudad a otro ritmo. ¿Agendamos una visita? 📲`
-        },
+La tranquilidad que buscas, con la ciudad a un paso. 💡
 
-        {
-            tipo: "video",
-            diaSemana: "Viernes 25 de setiembre",
-            imagenes: ["img/25.jpg"],
-            copy: `🔑 ¿Bono del Buen Pagador (BBP): Cómo te ayuda a comprar tu primer depa? 🏢
-
-Es un subsidio del Estado que te regala parte de la inicial si compras con Nuevo Crédito Mivivienda.
-
-📉 Menos préstamo: El bono reduce el monto que vas a financiar con el banco.
-📋 Requisitos clave: No haber recibido antes ayuda del Estado, no tener otra propiedad y que el depa sea ecoamigable (si aplica para un bono extra). 🌿
-💡 Ejemplo rápido: A menor valor del inmueble, mayor puede ser el empujón del bono para completar tu inicial. 💸`
+📲 Escríbeme y agendamos una visita.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 26 de setiembre",
-            imagenes: ["img/26.jpg"],
-            copy: `✨ Vivir en Barranco no es solo tener una dirección, es elegir un estilo de vida.
+            diaSemana: "Sábado 03 de octubre",
+            imagenes: ["img/3.jpg"],
+            copy: `¿Por qué todos buscan vivir en Miraflores? ✨
 
-🏛️ Casonas históricas y callejones llenos de arte urbano.
-🌊 El sonido del mar muy cerca y los mejores atardeceres de Lima.
-☕ Un ritmo caminable, plazuelas escondidas y cafés con alma.
-🍷 Una comunidad creativa, bohemia y vibrante.
+Vivir aquí es calidad de vida y rentabilidad asegurada:
 
-Barranco te atrapa y no te suelta. ¿Te mudarías aquí o ya eres parte de su magia? ¡Te leo! 👇`
+🌊 El malecón y el mar a un paso.
+🚶‍♂️ Olvídate del auto: todo está cerca.
+🚓 Tranquilidad y calles seguras.
+📈 Inversión blindada: siempre hay alta demanda.
+
+No compras metros cuadrados, compras un estilo de vida. 💡
+
+📲 Escríbeme y vemos opciones.`
         }
     ]
 };
