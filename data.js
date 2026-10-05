@@ -5,79 +5,62 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557",
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
-    titulo: "Calendario Setiembre - Octubre 2026",
-    rangoFechas: "Semana del martes 29 al sábado 03 de octubre",
+    titulo: "Calendario Octubre 2026",
+    rangoFechas: "Semana del martes 6 al sábado 10 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 29 de setiembre",
-            imagenes: ["img/29.jpg"],
-            copy: `🏠 ¿Qué debes tener listo antes de publicar?
+            diaSemana: "Martes 6 de octubre",
+            imagenes: ["img/6.jpg"],
+            copy: `📱 ¿Publicar en redes es suficiente?
 
-Antes del famoso "SE VENDE", asegúrate de tener:
+No. Publicar es solo el comienzo. Detrás de una venta real hay:
 
-📄 Documentación en regla
-📐 Características reales
-📸 Fotografías de calidad
-💰 Precio sustentado
-📍 Detalles de ubicación
-☎️ Canal de contacto
+🎯 Segmentación
+📲 Difusión
+📞 Seguimiento
+📊 Medición
+🤝 Negociación
 
-Una publicación empieza mucho antes de subirla a Instagram. 📱💡`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Jueves 01 de octubre",
-            imagenes: ["img/1.jpg"],
-            copy: `¿Invertir en un Airbnb realmente es rentable? 🧳
-
-No basta con comprar un departamento y publicarlo.
-
-Para calcular tu rentabilidad real, debes analizar:
-
-📍 Ubicación estratégica
-📅 Tasa de ocupación esperada
-💰 Precio promedio por noche
-🧾 Gastos de operación y mantenimiento
-
-El éxito de un alquiler a corto plazo no es suerte, es gestión. 💡`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 02 de octubre",
-            imagenes: ["img/2.jpg"],
-            copy: `🌳 Frente al parque y a un paso de la Costa Verde
-
-Privacidad y espacio en el límite perfecto entre Barranco y Miraflores.
-
-🛏️ 3 dormitorios + área de servicio
-🛋️ Sala amplia y cocina funcional
-🚗 Estacionamiento privado
-🏢 Edificio boutique de solo 10 departamentos
-
-La tranquilidad que buscas, con la ciudad a un paso. 💡
-
-📲 Escríbeme y agendamos una visita.`
+Una propiedad no se vende solo por aparecer en Instagram. Se vende cuando llega al comprador correcto gracias a una estrategia. 💡`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 03 de octubre",
-            imagenes: ["img/3.jpg"],
-            copy: `¿Por qué todos buscan vivir en Miraflores? ✨
+            diaSemana: "Jueves 8 de octubre",
+            imagenes: ["img/8.png"],
+            copy: `🌊 ¡Feliz Día del Combate de Angamos!
+Qué mejor fecha para sentirnos orgullosos de nuestra historia y del gran legado de Miguel Grau. ¡Que tengan un excelente 8 de octubre! 🇵🇪🚢`
+        },
 
-Vivir aquí es calidad de vida y rentabilidad asegurada:
+        {
+            tipo: "video",
+            diaSemana: "Viernes 9 de octubre",
+            imagenes: ["img/9.jpg"],
+            copy: `¿Sabías que tu próximo depa te podría ahorrar hasta 70% en luz y agua? 💡🌱
 
-🌊 El malecón y el mar a un paso.
-🚶‍♂️ Olvídate del auto: todo está cerca.
-🚓 Tranquilidad y calles seguras.
-📈 Inversión blindada: siempre hay alta demanda.
+La tendencia inmobiliaria en Perú hoy son los "depas verdes". Los proyectos con certificaciones ecológicas están en auge y te traen grandes beneficios:
 
-No compras metros cuadrados, compras un estilo de vida. 💡
+✔ Ahorro mensual: Recibos de servicios mucho más bajos.
+✔ Bono Mivivienda Verde: Acceso a financiamiento y mejores tasas bancarias.
+✔ Alta rentabilidad: Tu propiedad valdrá más en el tiempo.`
+        },
 
-📲 Escríbeme y vemos opciones.`
+        {
+            tipo: "video",
+            diaSemana: "Sábado 10 de octubre",
+            imagenes: ["img/10.jpg"],
+            copy: `🌳 Vive frente a parque, a un paso de la Costa Verde
+
+Privacidad absoluta en la mejor zona límite entre Barranco y Miraflores.
+
+Características del depa:
+✔ Súper exclusivo: Edificio boutique de solo 10 familias.
+✔ Espacio para todos: 3 dormitorios + área de servicio completa.
+✔ Ambientes cómodos: Sala muy iluminada y cocina lista para usar.
+✔ Seguridad: Cochera privada incluida.
+
+Toda la tranquilidad de la naturaleza con la ciudad a tu alcance. 💡`
         }
     ]
 };
