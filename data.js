@@ -6,61 +6,60 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
     titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 6 al sábado 10 de octubre",
+    rangoFechas: "Semana del martes 13 al sábado 17 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 6 de octubre",
-            imagenes: ["img/6.jpg"],
-            copy: `📱 ¿Publicar en redes es suficiente?
+            diaSemana: "Martes 13 de octubre",
+            imagenes: ["img/13.jpg"],
+            copy: `🏠 ¿Tienes una propiedad y quieres venderla? Sígueme. Aquí encontrarás:
 
-No. Publicar es solo el comienzo. Detrás de una venta real hay:
+📸 Tips para presentar tu inmueble.
+💰 Consejos para fijar el precio ideal.
+🤝 Estrategias de negociación efectiva.
+📈 Tendencias del mercado actual.
 
-🎯 Segmentación
-📲 Difusión
-📞 Seguimiento
-📊 Medición
-🤝 Negociación
+💡 Vender merece una estrategia, no solo una publicación.`
+        },
 
-Una propiedad no se vende solo por aparecer en Instagram. Se vende cuando llega al comprador correcto gracias a una estrategia. 💡`
+        {
+            tipo: "video",
+            diaSemana: "Jueves 15 de octubre",
+            imagenes: ["img/15.jpg"],
+            copy: `🏗️ Asegura tu capital en una zona de alto desarrollo. Lote con ubicación estratégica en el límite de Barranco y Chorrillos, ideal para materializar tu próximo proyecto.
+
+📍 Documentos 100% saneados y traspaso inmediato.
+💰 Inversión: USD 463,500.
+
+💜 Soy Pierina Vega. Escríbeme un mensaje y aseguremos esta excelente oportunidad. 👇`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 16 de octubre",
+            imagenes: ["img/16.jpg"],
+            copy: `📸 Tu propiedad no tiene una segunda oportunidad para una primera impresión. Antes de visitarla, el comprador la verá en pantalla y en segundos decidirá: "Quiero verla" o "Siguiente".
+
+💡 Una buena presentación no es esconder defectos, es resaltar lo mejor:
+☀️ Buena iluminación.
+🧹 Espacios ordenados y despejados.
+📸 Fotografías que transmitan el espacio real.
+
+🎯 Antes de negociar el precio, hay que lograr que el comprador quiera conocerla.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 8 de octubre",
-            imagenes: ["img/8.png"],
-            copy: `🌊 ¡Feliz Día del Combate de Angamos!
-Qué mejor fecha para sentirnos orgullosos de nuestra historia y del gran legado de Miguel Grau. ¡Que tengan un excelente 8 de octubre! 🇵🇪🚢`
-        },
+            diaSemana: "Sábado 17 de octubre",
+            imagenes: ["img/17.jpg"],
+            copy: `🌿 ¿Sabías que tu próximo departamento podría ahorrarte hasta un 70% en energía?
 
-        {
-            tipo: "video",
-            diaSemana: "Viernes 9 de octubre",
-            imagenes: ["img/9.jpg"],
-            copy: `¿Sabías que tu próximo depa te podría ahorrar hasta 70% en luz y agua? 💡🌱
+🏗️ La construcción sostenible está redefiniendo el mercado inmobiliario en Perú.
 
-La tendencia inmobiliaria en Perú hoy son los "depas verdes". Los proyectos con certificaciones ecológicas están en auge y te traen grandes beneficios:
-
-✔ Ahorro mensual: Recibos de servicios mucho más bajos.
-✔ Bono Mivivienda Verde: Acceso a financiamiento y mejores tasas bancarias.
-✔ Alta rentabilidad: Tu propiedad valdrá más en el tiempo.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 10 de octubre",
-            imagenes: ["img/10.jpg"],
-            copy: `🌳 Vive frente a parque, a un paso de la Costa Verde
-
-Privacidad absoluta en la mejor zona límite entre Barranco y Miraflores.
-
-Características del depa:
-✔ Súper exclusivo: Edificio boutique de solo 10 familias.
-✔ Espacio para todos: 3 dormitorios + área de servicio completa.
-✔ Ambientes cómodos: Sala muy iluminada y cocina lista para usar.
-✔ Seguridad: Cochera privada incluida.
-
-Toda la tranquilidad de la naturaleza con la ciudad a tu alcance. 💡`
+Hoy los compradores inteligentes buscan eficiencia:
+✅ Proyectos con certificaciones EDGE y LEED.
+✅ Menor impacto ambiental.
+💰 Ahorro real y directo en tus recibos mes a mes.`
         }
     ]
 };
