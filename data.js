@@ -6,60 +6,69 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
     titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 13 al sábado 17 de octubre",
+    rangoFechas: "Semana del martes 20 al sábado 24 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 13 de octubre",
-            imagenes: ["img/13.jpg"],
-            copy: `🏠 ¿Tienes una propiedad y quieres venderla? Sígueme. Aquí encontrarás:
+            diaSemana: "Martes 20 de octubre",
+            imagenes: ["img/20.jpg"],
+            copy: `Detrás de cada "VENDIDO" hay mucho más que una firma. ✍️
 
-📸 Tips para presentar tu inmueble.
-💰 Consejos para fijar el precio ideal.
-🤝 Estrategias de negociación efectiva.
-📈 Tendencias del mercado actual.
+Hay llamadas, visitas y horas de negociación.
+Pero, sobre todo, hay una persona tomando una gran decisión.
 
-💡 Vender merece una estrategia, no solo una publicación.`
+Soy Pierina.
+
+🏠 Mi trabajo es vender propiedades.
+🤝 Mi propósito es acompañarte.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 15 de octubre",
-            imagenes: ["img/15.jpg"],
-            copy: `🏗️ Asegura tu capital en una zona de alto desarrollo. Lote con ubicación estratégica en el límite de Barranco y Chorrillos, ideal para materializar tu próximo proyecto.
+            diaSemana: "Jueves 22 de octubre",
+            imagenes: ["img/22.jpg"],
+            copy: `🏗️ Invierte a lo seguro en una zona de gran proyección.
 
-📍 Documentos 100% saneados y traspaso inmediato.
-💰 Inversión: USD 463,500.
+Lote estratégico entre Barranco y Chorrillos, listo para darle vida a tu próximo proyecto.
 
-💜 Soy Pierina Vega. Escríbeme un mensaje y aseguremos esta excelente oportunidad. 👇`
+📍 Documentación impecable y traspaso inmediato.
+💰 Valor: USD 463,500.
+
+Soy Pierina Vega.
+💜 Envíame un mensaje y hablemos de esta oportunidad. 👇`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 16 de octubre",
-            imagenes: ["img/16.jpg"],
-            copy: `📸 Tu propiedad no tiene una segunda oportunidad para una primera impresión. Antes de visitarla, el comprador la verá en pantalla y en segundos decidirá: "Quiero verla" o "Siguiente".
+            diaSemana: "Viernes 23 de octubre",
+            imagenes: ["img/23.jpg"],
+            copy: `¿Tu propiedad está cara o mal presentada? 🤔
 
-💡 Una buena presentación no es esconder defectos, es resaltar lo mejor:
-☀️ Buena iluminación.
-🧹 Espacios ordenados y despejados.
-📸 Fotografías que transmitan el espacio real.
+Si tu anuncio tiene muchas visualizaciones y consultas, pero cero ofertas, no bajes el precio de inmediato.
 
-🎯 Antes de negociar el precio, hay que lograr que el comprador quiera conocerla.`
+El problema podría ser otro:
+
+📸 La presentación del inmueble.
+🎯 El público equivocado.
+📍 Tu estrategia de publicación.
+
+Antes de tocar el precio, hay que descubrir qué frena la operación.
+
+Vender no es simplemente publicar.
+Es saber leer lo que está pasando.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 17 de octubre",
-            imagenes: ["img/17.jpg"],
-            copy: `🌿 ¿Sabías que tu próximo departamento podría ahorrarte hasta un 70% en energía?
+            diaSemana: "Sábado 24 de octubre",
+            imagenes: ["img/24.jpg"],
+            copy: `¿Vas a vender tu propiedad? Cuidado con estos 3 detalles que espantan a los compradores (y bajan tu precio) 👇
 
-🏗️ La construcción sostenible está redefiniendo el mercado inmobiliario en Perú.
+1️⃣ Falta de luz: Un espacio oscuro siempre se siente más pequeño. ¡Abre las cortinas, limpia las ventanas y cambia los focos quemados! ☀️
+2️⃣ Demasiadas cosas personales: El comprador necesita imaginarse viviendo ahí, no sentirse de visita en tu casa. Guarda fotos familiares y despeja los muebles. 🖼️
+3️⃣ Desperfectos "invisibles": Esa puerta que rechina o el caño que gotea. Para ti es costumbre, para el comprador es un "gasto extra" que usará para negociar el precio a la baja. 🔧
 
-Hoy los compradores inteligentes buscan eficiencia:
-✅ Proyectos con certificaciones EDGE y LEED.
-✅ Menor impacto ambiental.
-💰 Ahorro real y directo en tus recibos mes a mes.`
+La primera impresión es la que cierra el trato.`
         }
     ]
 };
