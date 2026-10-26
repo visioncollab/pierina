@@ -6,69 +6,61 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
     titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 20 al sábado 24 de octubre",
+    rangoFechas: "Semana del martes 27 al sábado 31 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 20 de octubre",
-            imagenes: ["img/20.jpg"],
-            copy: `Detrás de cada "VENDIDO" hay mucho más que una firma. ✍️
+            diaSemana: "Martes 27 de octubre",
+            imagenes: ["img/27.jpg"],
+            copy: `🤝 Negociar no es ganar a toda costa.
 
-Hay llamadas, visitas y horas de negociación.
-Pero, sobre todo, hay una persona tomando una gran decisión.
+Una buena negociación inmobiliaria busca:
 
-Soy Pierina.
+✔️ Un precio justo para ambas partes.
+✔️ Plazos y condiciones claras.
+✔️ Un acuerdo viable para comprador y vendedor.
 
-🏠 Mi trabajo es vender propiedades.
-🤝 Mi propósito es acompañarte.`
+🏡 Vender bien también es saber negociar. 💡`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 22 de octubre",
-            imagenes: ["img/22.jpg"],
-            copy: `🏗️ Invierte a lo seguro en una zona de gran proyección.
+            diaSemana: "Jueves 29 de octubre",
+            imagenes: ["img/29.jpg"],
+            copy: `🏗️ El espacio ideal para tu próxima inversión.
 
-Lote estratégico entre Barranco y Chorrillos, listo para darle vida a tu próximo proyecto.
+Terreno ubicado estratégicamente entre Barranco y Chorrillos, en una zona con potencial de desarrollo.
 
-📍 Documentación impecable y traspaso inmediato.
-💰 Valor: USD 463,500.
+📍 Documentación en regla y transferencia inmediata.
+💰 Precio: USD 463,500.
 
-Soy Pierina Vega.
-💜 Envíame un mensaje y hablemos de esta oportunidad. 👇`
+Soy Pierina Vega. 💜
+
+📩 Escríbeme y descubre cómo aprovechar esta oportunidad inmobiliaria.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 23 de octubre",
-            imagenes: ["img/23.jpg"],
-            copy: `¿Tu propiedad está cara o mal presentada? 🤔
+            diaSemana: "Viernes 30 de octubre",
+            imagenes: ["img/30.jpg"],
+            copy: `🤝 Una buena negociación empieza antes de recibir una oferta.
 
-Si tu anuncio tiene muchas visualizaciones y consultas, pero cero ofertas, no bajes el precio de inmediato.
+No se trata solo de responder: "¿Cuánto es lo menos?"
 
-El problema podría ser otro:
+Todo comienza con:
 
-📸 La presentación del inmueble.
-🎯 El público equivocado.
-📍 Tu estrategia de publicación.
-
-Antes de tocar el precio, hay que descubrir qué frena la operación.
-
-Vender no es simplemente publicar.
-Es saber leer lo que está pasando.`
+📸 Una buena presentación de la propiedad.
+📊 Un precio acorde al mercado.
+💬 Una comunicación clara de sus atributos.
+🎯 Conocer las necesidades del comprador.
+🏡 Negociar bien no es solo hablar de precios, sino saber transmitir el valor de una propiedad.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 24 de octubre",
-            imagenes: ["img/24.jpg"],
-            copy: `¿Vas a vender tu propiedad? Cuidado con estos 3 detalles que espantan a los compradores (y bajan tu precio) 👇
-
-1️⃣ Falta de luz: Un espacio oscuro siempre se siente más pequeño. ¡Abre las cortinas, limpia las ventanas y cambia los focos quemados! ☀️
-2️⃣ Demasiadas cosas personales: El comprador necesita imaginarse viviendo ahí, no sentirse de visita en tu casa. Guarda fotos familiares y despeja los muebles. 🖼️
-3️⃣ Desperfectos "invisibles": Esa puerta que rechina o el caño que gotea. Para ti es costumbre, para el comprador es un "gasto extra" que usará para negociar el precio a la baja. 🔧
-
-La primera impresión es la que cierra el trato.`
+            diaSemana: "Sábado 31 de octubre",
+            imagenes: ["img/31.jpg"],
+            copy: `🎸🥁 ¡Que suenen las guitarras y el cajón! Este 31 de octubre celebremos con alegría el ritmo y la tradición de nuestra música criolla. 🇵🇪`
         }
     ]
 };
