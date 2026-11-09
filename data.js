@@ -6,72 +6,71 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
     titulo: "Calendario Noviembre 2026",
-    rangoFechas: "Semana del martes 03 al sábado 07 de noviembre",
+    rangoFechas: "Semana del martes 10 al sábado 14 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 3 de noviembre",
-            imagenes: ["img/3.jpg"],
-            copy: `5 frases que todo agente escucha antes de negociar 😂
+            diaSemana: "Martes 10 de noviembre",
+            imagenes: ["img/10.jpg"],
+            copy: `🏡 ¿QUIERES VENDER ANTES DE FIN DE AÑO?
 
-1. "Está bonito, pero..."
-2. "¿Cuánto es lo mínimo?"
-3. "Vi uno parecido más barato."
-4. "Déjame pensarlo..."
-5. "Si me bajas un poco, cierro hoy."
+¡Noviembre es clave para preparar tu venta!
 
-Detrás de cada frase hay una duda real o una estrategia para tantear el precio. 🧠
-
-La clave no es ceder al impulso, sino negociar con argumentos. 🔑
-
-💬 ¿Cuál te dicen más? Te leo en comentarios.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Jueves 5 de noviembre",
-            imagenes: ["img/5.jpg"],
-            copy: `🏗️ Invierte en una zona de alta revalorización y constante desarrollo.
-
-Lote con ubicación estratégica en el límite de Barranco y Chorrillos, ideal para desarrollar tu próximo proyecto residencial o comercial.
-
-📍 Legal: Documentos 100% saneados e independizados.
-💰 Inversión: USD 463,500
-✅ Estado: Listo para traspaso inmediato.
-
-📩 Escríbeme al MD para enviarte la ubicación exacta y coordinar una visita.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 6 de noviembre",
-            imagenes: ["img/6.jpg"],
-            copy: `¿Qué hago antes de poner tu propiedad en venta? 🏡
-
-Publicar el anuncio es solo el paso final. El trabajo real empieza antes:
-
-📊 Estudio de mercado: Analizo precios reales de venta de inmuebles similares.
-🎯 Comprador ideal: Defino el perfil de quien realmente va a interesarse.
-📸 Presentación: Preparo el inmueble para captar la atención de inmediato.
-📢 Estrategia: Elijo los canales correctos para difundirlo.
-
-Poner un precio no es decir "quiero venderlo a X", sino entender qué valor aceptará el mercado para cerrar la venta rápido y al mejor precio. 🧠🔑`
+💰 Precio correcto: ajustado al mercado.
+🏠 Buena presentación: destaca lo mejor de tu propiedad.
+📄 Documentación lista: evita retrasos innecesarios.
+📲 Difusión estratégica: llega a compradores interesados.
+🎯 No esperes a diciembre para empezar.
+📩 ¿Pensando en vender? ¡Hablemos!`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 7 de noviembre",
-            imagenes: ["img/7.jpg"],
-            copy: `¿Tienes un crédito hipotecario o piensas pedir uno? 💳🏠
+            diaSemana: "Jueves 12 de noviembre",
+            imagenes: ["img/12.jpg"],
+            copy: `🏡 ¡NO SEPARES UNA PROPIEDAD SIN REVISAR ESTO!
 
-La compra y traslado de hipotecas entre bancos está aumentando por la baja de tasas de interés.
+En Perú, antes de entregar dinero por una vivienda, hay un paso que no debes saltarte: revisar su partida registral en SUNARP.
 
-¿Qué significa para ti?
-✅ Oportunidad de refinanciar tu deuda a menor tasa.
-✅ Bancos compitiendo con mejores condiciones.
-📌 Requisito clave: tu propiedad debe estar 100% independizada y con papeles en regla.
+🔎 Verifica 3 cosas:
 
-Buen momento para revisar tus números y mejorar tu financiamiento. 🧠🔑`
+✅ Que el vendedor sea el propietario registrado.
+✅ Que no existan cargas o gravámenes que compliquen la compra.
+✅ Que los datos del inmueble coincidan con lo ofrecido.
+
+💡 TIP EXTRA: Puedes consultar gratuitamente la partida mediante el servicio Conoce Aquí de SUNARP.
+
+🔑 Una buena compra no solo depende del precio, sino también de la seguridad de tu inversión.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 13 de noviembre",
+            imagenes: ["img/13.jpg"],
+            copy: `💼 LAS BUENAS OPORTUNIDADES EMPIEZAN CON UNA CONEXIÓN.
+
+Quiero que LinkedIn sea otro espacio para conversar, intercambiar ideas y descubrir nuevas oportunidades en el mundo inmobiliario.
+Porque los mejores negocios también nacen de las buenas relaciones. 🤝
+
+¿Ya estamos conectados?
+
+Te espero en LinkedIn. ¡Ampliemos nuestra red!`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Sábado 14 de noviembre",
+            imagenes: ["img/14.jpg"],
+            copy: `🏗️ ¡EL ESPACIO IDEAL PARA TU PRÓXIMA INVERSIÓN!
+
+Terreno estratégicamente ubicado entre Barranco y Chorrillos, en una zona con potencial de crecimiento y desarrollo inmobiliario.
+
+📍 Ubicación: Límite de Barranco y Chorrillos.
+📄 Documentación: 100% saneada e independizada.
+💰 Precio: USD 463,500.
+✅ Disponibilidad: Listo para transferencia inmediata.
+
+Una oportunidad para hacer realidad tu próximo proyecto residencial o comercial.`
         }
     ]
 };
