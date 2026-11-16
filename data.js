@@ -6,61 +6,57 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "WhatsApp: https://wa.me/51999214678",
     whatsappDestino: "",
     titulo: "Calendario Noviembre 2026",
-    rangoFechas: "Semana del martes 10 al sábado 14 de noviembre",
+    rangoFechas: "Semana del martes 17 al sábado 21 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 10 de noviembre",
-            imagenes: ["img/10.jpg"],
-            copy: `🏡 ¿QUIERES VENDER ANTES DE FIN DE AÑO?
+            diaSemana: "Martes 17 de noviembre",
+            imagenes: ["img/17.jpg"],
+            copy: `¿Puedes vender una propiedad alquilada? 🏡
 
-¡Noviembre es clave para preparar tu venta!
+¡Sí es posible! Solo debes considerar:
 
-💰 Precio correcto: ajustado al mercado.
-🏠 Buena presentación: destaca lo mejor de tu propiedad.
-📄 Documentación lista: evita retrasos innecesarios.
-📲 Difusión estratégica: llega a compradores interesados.
-🎯 No esperes a diciembre para empezar.
-📩 ¿Pensando en vender? ¡Hablemos!`
+📄 Revisar el contrato vigente.
+🤝 Respetar los acuerdos con el inquilino.
+🔑 Coordinar las visitas con anticipación.
+
+Una venta bien organizada facilita todo el proceso.
+
+¿Estás pensando en vender tu propiedad? ¡Conversemos!`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Jueves 19 de noviembre",
+            imagenes: ["img/19.jpg"],
+            copy: `¡Más oportunidades para acceder a una vivienda! 🏡
+
+El MEF anunció nuevos recursos para impulsar los programas de vivienda en Perú.
+
+💰 S/150 millones adicionales para fines de 2026.
+🏡 S/500 millones previstos para iniciar 2027.
+📈 La meta anunciada es alcanzar S/1,000 millones en el segundo semestre de 2027.
+
+¡Infórmate y prepárate para dar el siguiente paso hacia tu hogar propio!`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 20 de noviembre",
+            imagenes: ["img/20.jpg"],
+            copy: `¿Por qué elegí el mundo inmobiliario? 🏡
+
+Porque detrás de cada propiedad hay sueños, historias y nuevos comienzos.
+
+Me apasiona escuchar, asesorar y acompañar a mis clientes en cada decisión.
+
+Más que vender propiedades, me gusta ayudar a cumplir proyectos de vida. ✨`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 12 de noviembre",
-            imagenes: ["img/12.jpg"],
-            copy: `🏡 ¡NO SEPARES UNA PROPIEDAD SIN REVISAR ESTO!
-
-En Perú, antes de entregar dinero por una vivienda, hay un paso que no debes saltarte: revisar su partida registral en SUNARP.
-
-🔎 Verifica 3 cosas:
-
-✅ Que el vendedor sea el propietario registrado.
-✅ Que no existan cargas o gravámenes que compliquen la compra.
-✅ Que los datos del inmueble coincidan con lo ofrecido.
-
-💡 TIP EXTRA: Puedes consultar gratuitamente la partida mediante el servicio Conoce Aquí de SUNARP.
-
-🔑 Una buena compra no solo depende del precio, sino también de la seguridad de tu inversión.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 13 de noviembre",
-            imagenes: ["img/13.jpg"],
-            copy: `💼 LAS BUENAS OPORTUNIDADES EMPIEZAN CON UNA CONEXIÓN.
-
-Quiero que LinkedIn sea otro espacio para conversar, intercambiar ideas y descubrir nuevas oportunidades en el mundo inmobiliario.
-Porque los mejores negocios también nacen de las buenas relaciones. 🤝
-
-¿Ya estamos conectados?
-
-Te espero en LinkedIn. ¡Ampliemos nuestra red!`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 14 de noviembre",
-            imagenes: ["img/14.jpg"],
+            diaSemana: "Sábado 21 de noviembre",
+            imagenes: ["img/21.jpg"],
             copy: `🏗️ ¡EL ESPACIO IDEAL PARA TU PRÓXIMA INVERSIÓN!
 
 Terreno estratégicamente ubicado entre Barranco y Chorrillos, en una zona con potencial de crecimiento y desarrollo inmobiliario.
